@@ -8,7 +8,7 @@ export FLASK_APP=run.py
 flask run
 ```
 
-I figured out to have an example when running with docker
+Just an example when running it with docker
 
 
 To run:
