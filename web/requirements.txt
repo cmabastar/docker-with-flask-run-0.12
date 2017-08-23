@@ -1,0 +1,7 @@
+flask
+Flask-Restful
+Flask-Sqlalchemy
+Flask-Migrate
+Flask-And-Redis
+Flask-Caching
+gunicorn
